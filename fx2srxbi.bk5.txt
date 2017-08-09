@@ -1,0 +1,59 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/.jsdtscope
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	new file:   .settings/org.eclipse.wst.common.component
+#	new file:   .settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.container
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.name
+#	new file:   .settings/org.eclipse.wst.validation.prefs
+#	new file:   pom.xml
+#	new file:   src/main/java/com/controller/ProductController.java
+#	new file:   src/main/java/com/controller/homeController.java
+#	new file:   src/main/java/com/controller/userController.java
+#	new file:   src/main/webapp/WEB-INF/dispatcher-servlet.xml
+#	new file:   src/main/webapp/WEB-INF/view/addproduct.jsp
+#	new file:   src/main/webapp/WEB-INF/view/header.jsp
+#	new file:   src/main/webapp/WEB-INF/view/index.jsp
+#	new file:   src/main/webapp/WEB-INF/view/login.jsp
+#	new file:   src/main/webapp/WEB-INF/view/register.jsp
+#	new file:   src/main/webapp/WEB-INF/view/welcome.jsp
+#	new file:   src/main/webapp/WEB-INF/web.xml
+#	new file:   src/main/webapp/resource/image/acc.jpg
+#	new file:   src/main/webapp/resource/image/dex.jpg
+#	new file:   src/main/webapp/resource/image/hor.jpg
+#	new file:   src/target/classes/com/controller/homeController.class
+#	new file:   src/target/classes/com/controller/userController.class
+#	new file:   src/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+#	new file:   src/target/m2e-wtp/web-resources/META-INF/maven/com/moviries/pom.properties
+#	new file:   src/target/m2e-wtp/web-resources/META-INF/maven/com/moviries/pom.xml
+#	new file:   src/target/maven-archiver/pom.properties
+#	new file:   src/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   src/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	new file:   src/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+#	new file:   src/target/moviries.war
+#	new file:   src/target/moviries/WEB-INF/classes/com/controller/homeController.class
+#	new file:   src/target/moviries/WEB-INF/dispatcher-servlet.xml
+#	new file:   src/target/moviries/WEB-INF/lib/commons-logging-1.2.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar
+#	new file:   src/target/moviries/WEB-INF/view/index.jsp
+#	new file:   src/target/moviries/WEB-INF/view/web.xml
+#	new file:   src/target/moviries/WEB-INF/view/welcome.jsp
+#	new file:   src/target/moviries/WEB-INF/web.xml
+#
+
